@@ -11,7 +11,7 @@ $fs = 0.2;
 WITH_TENTING=true;
 IS_CASE = false; // Adds pcb stand-offs and holes.
 
-inner_wall_height = IS_CASE ? 9.0: 7.0;
+inner_wall_height = IS_CASE ? 11.0: 8.0;
 LEFT=false;
 
 inner_wall_tolerance = 0.6;
